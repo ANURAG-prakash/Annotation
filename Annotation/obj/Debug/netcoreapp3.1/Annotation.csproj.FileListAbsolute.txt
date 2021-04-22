@@ -1,0 +1,13 @@
+D:\Annotation\Annotation\bin\Debug\netcoreapp3.1\Annotation.exe
+D:\Annotation\Annotation\bin\Debug\netcoreapp3.1\Annotation.deps.json
+D:\Annotation\Annotation\bin\Debug\netcoreapp3.1\Annotation.runtimeconfig.json
+D:\Annotation\Annotation\bin\Debug\netcoreapp3.1\Annotation.runtimeconfig.dev.json
+D:\Annotation\Annotation\bin\Debug\netcoreapp3.1\Annotation.dll
+D:\Annotation\Annotation\bin\Debug\netcoreapp3.1\Annotation.pdb
+D:\Annotation\Annotation\obj\Debug\netcoreapp3.1\Annotation.csprojAssemblyReference.cache
+D:\Annotation\Annotation\obj\Debug\netcoreapp3.1\Annotation.AssemblyInfoInputs.cache
+D:\Annotation\Annotation\obj\Debug\netcoreapp3.1\Annotation.AssemblyInfo.cs
+D:\Annotation\Annotation\obj\Debug\netcoreapp3.1\Annotation.csproj.CoreCompileInputs.cache
+D:\Annotation\Annotation\obj\Debug\netcoreapp3.1\Annotation.dll
+D:\Annotation\Annotation\obj\Debug\netcoreapp3.1\Annotation.pdb
+D:\Annotation\Annotation\obj\Debug\netcoreapp3.1\Annotation.genruntimeconfig.cache
